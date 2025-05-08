@@ -45,5 +45,6 @@ Optimize inventory based on sales trends
 Power BI Desktop (latest version recommended)
 
 Optional: Excel/CSV source files if dataset isn't embedded
+![image alt](https://github.com/Ashwini2002BV/Mobile-Sales-Data/blob/cc6a64c3f6d5c002bd04c9a4aeca4cb885572702/MOBILE_SALES%20_DATA%20IMAGE.jpg)
 
 
