@@ -46,7 +46,7 @@ Power BI Desktop (latest version recommended)
 
 Optional: Excel/CSV source files if dataset isn't embedded
 ![image alt](https://github.com/Ashwini2002BV/Mobile-Sales-Data/blob/cc6a64c3f6d5c002bd04c9a4aeca4cb885572702/MOBILE_SALES%20_DATA%20IMAGE.jpg)
-![image alt] (https://github.com/Ashwini2002BV/Mobile-Sales-Data/blob/b6e8f13e4022ff80102eff225f4029675fd64326/412854428aa246cdade369cc8b30b2b8.jpg)
+![image alt](https://github.com/Ashwini2002BV/Mobile-Sales-Data/blob/8333a6a9a1cf981e51c9065a3eba634de90e73ad/412854428aa246cdade369cc8b30b2b8.jpg)
 
 
 
